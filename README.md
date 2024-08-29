@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding is a super power
 - Project Working On: Big POS System with up to 15 Database Tables. 000--------- 33% completed
-- 
+  
 <!---
 omaroueidat/omaroueidat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
